@@ -1,5 +1,3 @@
-// Historia.java
-
 public class Historia {
 
 

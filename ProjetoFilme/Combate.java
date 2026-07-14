@@ -1,5 +1,3 @@
-// Combate.java
-
 import java.util.Scanner;
 import java.util.Random;
 

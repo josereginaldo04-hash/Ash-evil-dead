@@ -1,5 +1,3 @@
-// AshEvilDead.java
-
 import java.util.Scanner;
 
 public class AshEvilDead {

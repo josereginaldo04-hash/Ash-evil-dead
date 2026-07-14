@@ -1,5 +1,3 @@
-// Monstro.java
-
 public class Monstro {
 
     String nome;

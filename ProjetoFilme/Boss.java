@@ -1,5 +1,3 @@
-// Boss.java
-
 public class Boss extends Monstro {
 
 

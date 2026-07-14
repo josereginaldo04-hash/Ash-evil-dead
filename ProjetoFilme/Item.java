@@ -1,5 +1,3 @@
-// Item.java
-
 public class Item {
 
     String nome;

@@ -1,5 +1,3 @@
-// Mapa.java
-
 public class Mapa {
 
 
